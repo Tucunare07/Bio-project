@@ -1,0 +1,63 @@
+/* Bio CSS */
+
+body, {
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+}
+
+div {
+    width: 100%;
+    margin: 0;
+}
+
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 5em;
+    color: white;
+    text-align: center;
+}
+
+/* HEADER WELCOME */
+
+.bg { 
+    background-image: url("../img/chicago-690364_1920.jpg");
+    height: 50%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+ 
+/* NAVIGATION */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #333c60;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #efbdba;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #efbdba;
+    color: #4d4d4f;
+}
+
+.portfolio{
+    padding: 30px;
+    font-size: 16px;
+    
+}
