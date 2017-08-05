@@ -10,6 +10,7 @@ div {
     margin: 0;
 }
 
+
 h1 {
     font-family: 'Raleway', sans-serif;
     font-size: 5em;
@@ -17,21 +18,24 @@ h1 {
     text-align: center;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 50c546b... play time
 /* HEADER WELCOME */
 
-.bg {
+.bg { 
     background-image: url("../img/chicago-690364_1920.jpg");
-    height: 50%;
+    height: 50%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 
+ 
 /* NAVIGATION */
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -57,15 +61,10 @@ li a:hover {
     color: #4d4d4f;
 }
 
-
-/* SECTION CSS */
-
-.portfolio {
-    background-color: #efbdba;
-    color: #4d4d4f;
-    max-width: 100%;
-    padding: 40px;
+.portfolio{
+    padding: 30px;
     font-size: 16px;
+<<<<<<< HEAD
 }
 
 .footer {
@@ -75,4 +74,7 @@ li a:hover {
 
 img{
     float: right;
+=======
+    
+>>>>>>> parent of 50c546b... play time
 }
