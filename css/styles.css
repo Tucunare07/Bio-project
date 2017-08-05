@@ -18,6 +18,7 @@ h1 {
 }
 
 
+
 /* HEADER WELCOME */
 
 .bg {
@@ -73,5 +74,5 @@ li a:hover {
 }
 
 img{
-    float; right;
+    float: right;
 }
